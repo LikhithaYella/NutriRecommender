@@ -21,7 +21,7 @@ NutriRecommender is a personalized food recommendation system that uses machine 
 ## Usage
 1. Run the main script to get meal recommendations:
     ```sh
-    python src/nutrition.py
+    python src/nutri.py
     ```
 
 ## Project Structure
